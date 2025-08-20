@@ -1,2 +1,2 @@
 print("HI, I am good")
-print("HEY", I am pretty)
+print("HEY, I am pretty")
